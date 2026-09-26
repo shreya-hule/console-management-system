@@ -19,7 +19,7 @@ Choose a menu number and follow the prompts. Use `0` to exit. Marks must be betw
 
 The screenshot below shows output from a real run of the program using sample student data.
 
-![Student Record Manager console screenshot](screenshots/student-manager-console.png)
+![Student Record Manager console screenshot](student-manager-console.png)
 
 ## Features
 
